@@ -427,7 +427,7 @@ section .title::after{
 
 
 .teams .title::after{
-    content: "my colleagues";
+    content: "colleagues";
 }
 
 .teams .carousel .card{
